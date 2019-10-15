@@ -1,5 +1,7 @@
-# @david.kucsai/react-pdf-table
+# @afoone/react-pdf-table
 
+
+forked from @davidkuksay
 This library is designed to be used with [@react-pdf/renderer](https://www.npmjs.com/package/@react-pdf/renderer).
 
 The goal behind this library is to provide a declarative way of defining tables in a PDF.
