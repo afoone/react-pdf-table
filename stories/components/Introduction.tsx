@@ -5,7 +5,7 @@ export default class Introduction extends React.PureComponent {
         return (
             <div>
                 <p>
-                    This storybook documents how to use <strong>@david.kucsai/react-pdf-table</strong>.
+                    This storybook documents how to use <strong>afoone/react-pdf-table</strong>.
                     <br/>
                     The library is specifically for use within <strong>@react-pdf/renderer</strong> components.
                     <br/>

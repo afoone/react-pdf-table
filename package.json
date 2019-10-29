@@ -1,5 +1,5 @@
 {
-  "name": "@david.kucsai/react-pdf-table",
+  "name": "@afoone/react-pdf-table",
   "version": "0.1.1",
   "description": "Provides tables for the @react-pdf/renderer.",
   "main": "./lib/index.js",
@@ -11,7 +11,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o docs"
   },
-  "author": "David Kucsai",
+  "author": "David Kucsai. Alfonso Tienda",
   "license": "MIT",
   "peerDependencies": {
     "@react-pdf/renderer": "^1.6.2",
@@ -68,12 +68,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmk99/react-pdf-table.git"
+    "url": "git+https://github.com/afoone/react-pdf-table.git"
   },
   "bugs": {
-    "url": "https://github.com/dmk99/react-pdf-table/issues"
+    "url": "https://github.com/afoone/react-pdf-table/issues"
   },
-  "homepage": "https://github.com/dmk99/react-pdf-table.git#README",
+  "homepage": "https://github.com/afoone/react-pdf-table.git#README",
   "types": "./lib/index.d.ts",
   "dependencies": {}
 }

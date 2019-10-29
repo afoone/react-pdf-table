@@ -11,7 +11,7 @@ The goal behind this library is to provide a declarative way of defining tables 
 To get started run:
 
 ```
-npm install @david.kucsai/react-pdf-table
+npm install https://github.com/afoone/react-pdf-table.git
 ```
 
 ## Documentation
